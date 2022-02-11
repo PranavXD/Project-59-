@@ -1,0 +1,19 @@
+hr{
+    width: 20px;
+}
+img{
+    border: 8px ridge black;
+}
+#lol{
+    height: 260px;
+    
+}
+#welp{
+    height: 260px;
+}
+.menu_bar{
+    
+    position:sticky ;
+    top: 0;
+    z-index: 9999999999
+}
